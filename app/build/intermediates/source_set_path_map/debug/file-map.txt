@@ -1,0 +1,50 @@
+com.wasif.videoplayer.app-lifecycle-livedata-core-2.6.2-0 C:\Users\User\.gradle\caches\transforms-3\089acb521cdf4c70464ac42b4facf57d\transformed\lifecycle-livedata-core-2.6.2\res
+com.wasif.videoplayer.app-annotation-experimental-1.4.0-1 C:\Users\User\.gradle\caches\transforms-3\0b8fb981de56eb0d057f71d703ae66f6\transformed\annotation-experimental-1.4.0\res
+com.wasif.videoplayer.app-activity-1.8.0-2 C:\Users\User\.gradle\caches\transforms-3\0e11f250159dbd464e68153cdf50bab0\transformed\activity-1.8.0\res
+com.wasif.videoplayer.app-appcompat-resources-1.6.1-3 C:\Users\User\.gradle\caches\transforms-3\0f40b7f9035a76b118d06ab17e63dd3f\transformed\appcompat-resources-1.6.1\res
+com.wasif.videoplayer.app-savedstate-1.2.1-4 C:\Users\User\.gradle\caches\transforms-3\103e958f00e95491d3ca0d98641af537\transformed\savedstate-1.2.1\res
+com.wasif.videoplayer.app-navigation-runtime-ktx-2.7.7-5 C:\Users\User\.gradle\caches\transforms-3\11cfe753c70c29699be4fea0a5d95b77\transformed\navigation-runtime-ktx-2.7.7\res
+com.wasif.videoplayer.app-savedstate-ktx-1.2.1-6 C:\Users\User\.gradle\caches\transforms-3\148d2bfcd8c5c99622618ad49caea6c7\transformed\savedstate-ktx-1.2.1\res
+com.wasif.videoplayer.app-core-ktx-1.13.1-7 C:\Users\User\.gradle\caches\transforms-3\290f20fa6669f0c2aa842b5cab72752d\transformed\core-ktx-1.13.1\res
+com.wasif.videoplayer.app-fragment-1.6.2-8 C:\Users\User\.gradle\caches\transforms-3\307e0e1781f9e1b41cde86c2886615fa\transformed\fragment-1.6.2\res
+com.wasif.videoplayer.app-cardview-1.0.0-9 C:\Users\User\.gradle\caches\transforms-3\317ca2ac195c4b6d5592f90079cdddac\transformed\cardview-1.0.0\res
+com.wasif.videoplayer.app-navigation-ui-ktx-2.7.7-10 C:\Users\User\.gradle\caches\transforms-3\32be91da1551670e5000faeaccc46d2a\transformed\navigation-ui-ktx-2.7.7\res
+com.wasif.videoplayer.app-drawerlayout-1.1.1-11 C:\Users\User\.gradle\caches\transforms-3\33c65cdd6a5dc1027154e1f05241c2be\transformed\drawerlayout-1.1.1\res
+com.wasif.videoplayer.app-emoji2-views-helper-1.2.0-12 C:\Users\User\.gradle\caches\transforms-3\3691e6f1a976c6f6021b0ac5b65480db\transformed\emoji2-views-helper-1.2.0\res
+com.wasif.videoplayer.app-navigation-fragment-ktx-2.7.7-13 C:\Users\User\.gradle\caches\transforms-3\3b2f262f3f2fb2e4e520376a4485e2f3\transformed\navigation-fragment-ktx-2.7.7\res
+com.wasif.videoplayer.app-material-1.12.0-14 C:\Users\User\.gradle\caches\transforms-3\3c176cd322bdebbc1c1050c6fa64fb06\transformed\material-1.12.0\res
+com.wasif.videoplayer.app-fragment-ktx-1.6.2-15 C:\Users\User\.gradle\caches\transforms-3\3c9db3257c4d06fe6dc033086c3efd81\transformed\fragment-ktx-1.6.2\res
+com.wasif.videoplayer.app-profileinstaller-1.3.0-16 C:\Users\User\.gradle\caches\transforms-3\41e9062e5710ae5f0d29b91758589794\transformed\profileinstaller-1.3.0\res
+com.wasif.videoplayer.app-navigation-runtime-2.7.7-17 C:\Users\User\.gradle\caches\transforms-3\486dfcf4678c02ecf1e2294b29e06930\transformed\navigation-runtime-2.7.7\res
+com.wasif.videoplayer.app-recyclerview-1.1.0-18 C:\Users\User\.gradle\caches\transforms-3\4ed0f3bc096a3618121ba16a3a1bedd4\transformed\recyclerview-1.1.0\res
+com.wasif.videoplayer.app-constraintlayout-2.1.4-19 C:\Users\User\.gradle\caches\transforms-3\550bef26491d395fe32163f809817ee9\transformed\constraintlayout-2.1.4\res
+com.wasif.videoplayer.app-window-1.0.0-20 C:\Users\User\.gradle\caches\transforms-3\5ffc9d235c7c83815c5548d9f04c202d\transformed\window-1.0.0\res
+com.wasif.videoplayer.app-activity-ktx-1.8.0-21 C:\Users\User\.gradle\caches\transforms-3\68f8d86033bd642b0be30c8bcc6d9ec3\transformed\activity-ktx-1.8.0\res
+com.wasif.videoplayer.app-navigation-ui-2.7.7-22 C:\Users\User\.gradle\caches\transforms-3\7223c119a362cc18665c07b066752e78\transformed\navigation-ui-2.7.7\res
+com.wasif.videoplayer.app-slidingpanelayout-1.2.0-23 C:\Users\User\.gradle\caches\transforms-3\7626404336a1294dff23461070570b92\transformed\slidingpanelayout-1.2.0\res
+com.wasif.videoplayer.app-lifecycle-runtime-2.6.2-24 C:\Users\User\.gradle\caches\transforms-3\7b6539d1f5f9daa23773efc225cee015\transformed\lifecycle-runtime-2.6.2\res
+com.wasif.videoplayer.app-navigation-common-2.7.7-25 C:\Users\User\.gradle\caches\transforms-3\8da13c6ed6fde04153329ab06c17de17\transformed\navigation-common-2.7.7\res
+com.wasif.videoplayer.app-appcompat-1.6.1-26 C:\Users\User\.gradle\caches\transforms-3\8e0c584c8556b96f89c523cb2fc1bd4f\transformed\appcompat-1.6.1\res
+com.wasif.videoplayer.app-navigation-common-ktx-2.7.7-27 C:\Users\User\.gradle\caches\transforms-3\9a7102fecd326f7edd4e1ab2c9ee697e\transformed\navigation-common-ktx-2.7.7\res
+com.wasif.videoplayer.app-coordinatorlayout-1.1.0-28 C:\Users\User\.gradle\caches\transforms-3\ad53fdb7ed21a57feee8cf2f6f368bb1\transformed\coordinatorlayout-1.1.0\res
+com.wasif.videoplayer.app-core-1.13.1-29 C:\Users\User\.gradle\caches\transforms-3\b9693a66f7f4f221a21edf1be5f52843\transformed\core-1.13.1\res
+com.wasif.videoplayer.app-lifecycle-viewmodel-ktx-2.6.2-30 C:\Users\User\.gradle\caches\transforms-3\be31ad36e2d468fc7ee6b3ee8ae5ecca\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.wasif.videoplayer.app-transition-1.5.0-31 C:\Users\User\.gradle\caches\transforms-3\c2a248126665149f69cee3f471f93297\transformed\transition-1.5.0\res
+com.wasif.videoplayer.app-lifecycle-livedata-2.6.2-32 C:\Users\User\.gradle\caches\transforms-3\c2dfefed1a5647f6726ccb3da5c06d1b\transformed\lifecycle-livedata-2.6.2\res
+com.wasif.videoplayer.app-viewpager2-1.0.0-33 C:\Users\User\.gradle\caches\transforms-3\c584eb40f50103a341acf7b92b5ac02d\transformed\viewpager2-1.0.0\res
+com.wasif.videoplayer.app-navigation-fragment-2.7.7-34 C:\Users\User\.gradle\caches\transforms-3\cc24a44d7c4226fd45ff534e846601dd\transformed\navigation-fragment-2.7.7\res
+com.wasif.videoplayer.app-lifecycle-runtime-ktx-2.6.2-35 C:\Users\User\.gradle\caches\transforms-3\cc5acdf74ce82138997776f15363a895\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.wasif.videoplayer.app-core-runtime-2.2.0-36 C:\Users\User\.gradle\caches\transforms-3\d40132127630e904b163906ca6f912db\transformed\core-runtime-2.2.0\res
+com.wasif.videoplayer.app-lifecycle-process-2.6.2-37 C:\Users\User\.gradle\caches\transforms-3\da501ed3a42042b41a840016bb39d59e\transformed\lifecycle-process-2.6.2\res
+com.wasif.videoplayer.app-lifecycle-viewmodel-savedstate-2.6.2-38 C:\Users\User\.gradle\caches\transforms-3\dd3c390d1008dd586aebea23213983bd\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.wasif.videoplayer.app-startup-runtime-1.1.1-39 C:\Users\User\.gradle\caches\transforms-3\e31d16c70187a0d5b68c4d187f945c3a\transformed\startup-runtime-1.1.1\res
+com.wasif.videoplayer.app-lifecycle-livedata-core-ktx-2.6.2-40 C:\Users\User\.gradle\caches\transforms-3\ee915693cb206b178463cf83e101a664\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.wasif.videoplayer.app-lifecycle-viewmodel-2.6.2-41 C:\Users\User\.gradle\caches\transforms-3\f23996f6cca70628ff517f567a1dcd81\transformed\lifecycle-viewmodel-2.6.2\res
+com.wasif.videoplayer.app-emoji2-1.2.0-42 C:\Users\User\.gradle\caches\transforms-3\fe838fdee6005aa04d070ca09028075b\transformed\emoji2-1.2.0\res
+com.wasif.videoplayer.app-pngs-43 E:\Wasif\Kotlin Projects\Video Player\app\build\generated\res\pngs\debug
+com.wasif.videoplayer.app-resValues-44 E:\Wasif\Kotlin Projects\Video Player\app\build\generated\res\resValues\debug
+com.wasif.videoplayer.app-packageDebugResources-45 E:\Wasif\Kotlin Projects\Video Player\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.wasif.videoplayer.app-packageDebugResources-46 E:\Wasif\Kotlin Projects\Video Player\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.wasif.videoplayer.app-merged_res-47 E:\Wasif\Kotlin Projects\Video Player\app\build\intermediates\merged_res\debug
+com.wasif.videoplayer.app-debug-48 E:\Wasif\Kotlin Projects\Video Player\app\src\debug\res
+com.wasif.videoplayer.app-main-49 E:\Wasif\Kotlin Projects\Video Player\app\src\main\res
